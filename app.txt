@@ -1,9 +1,9 @@
 app ver 0.4
 
-appname = "alom"
+appname = "atom"
 
 login
 
 logout
 
-sign in
+add sign in
