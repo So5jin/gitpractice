@@ -9,3 +9,5 @@ logout
 add sign in
 
 add quit
+
+add restart
