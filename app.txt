@@ -7,3 +7,5 @@ login
 logout
 
 add sign in
+
+add quit
